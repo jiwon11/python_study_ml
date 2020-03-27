@@ -2,5 +2,5 @@
     "editor.fontSize": 20,
     "git.ignoreLimitWarning": true,
     "python.pythonPath": "/Users/jiwonjeoung/anaconda3/envs/python_ml/bin/python",
-    "terminal.integrated.fontSize": 14
+    "terminal.integrated.fontSize": 14,
 }
